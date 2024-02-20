@@ -1,6 +1,6 @@
 # JavascriptImpt
 
-Attributes and its different types :
+1> Attributes and its different types :
 [attr]
 [attr = value]
 [attr ~= value]
@@ -8,4 +8,7 @@ Attributes and its different types :
 [attr $= value]
 [attr ^= value]
 [attr *= value]
+
+2> FlexBox
+
 
